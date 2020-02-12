@@ -1,1 +1,1 @@
-# Javascript-basico-RocketSeat
+# Javascript básico RocketSeat
